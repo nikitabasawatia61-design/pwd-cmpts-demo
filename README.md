@@ -12,7 +12,7 @@ npm run dev
 
 Open http://localhost:5173
 
-**Live demo:** https://nikitabasawatia.github.io/pwd-cmpts-demo/
+**Live demo:** https://nikitabasawatia61-design.github.io/pwd-cmpts-demo/
 
 ## Build for Deployment
 
